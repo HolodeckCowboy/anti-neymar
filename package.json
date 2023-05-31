@@ -1,7 +1,25 @@
 {
-    "name": "anti-neymar",
-    "version": "1.0.0",
-    "dependencies": {
-
-    }
+  "name": "anti-neymar",
+  "version": "1.0.0",
+  "description": "Eliminarei todo bot do Neymar no Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HolodeckCowboy/anti-neymar.git"
+  },
+  "author": "Holodeck Cowboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HolodeckCowboy/anti-neymar/issues"
+  },
+  "homepage": "https://github.com/HolodeckCowboy/anti-neymar#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "twitter": "^1.7.1",
+    "vue-router": "^4.2.2"
+  }
 }
